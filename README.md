@@ -9,7 +9,7 @@
 
 # 注意事項
     由於一般主流的瀏覽器預設禁止在HTML讀取本地端的檔案也就是file access from files,如果直接執行網頁是看不到任何東西的。
-    所以需要架一個http server，而自己是使用npm http-server。裝好後執行就能夠在http://127.0.0.1:8080/index.html 看到畫面
+    所以需要架一個http server，而自己是使用npm http-server。裝好後執行就能夠在http://127.0.0.1:8080/index.html 看到畫面。
 
 ## 指令:
     $ npm install http-server -g
