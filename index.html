@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .hinata{
+            background-color:#58D3F7;
+            color: white;
+            padding: 5px;
+        }
+        .sakurazaka{
+            background-color:#F6CEF5;
+            color: white;
+            padding: 5px;
+        }
+        .memberPic{
+            height: 100%;
+            width: 100%;
+
+        }
+        .container{
+            display: grid;
+            grid-template-columns: repeat(8,2fr);
+            align-items: center;
+            margin-top:10px;
+        }
+        .htxtalign{
+            text-align:center;
+        }
+        .ptxtalign{
+            font-size: 20px;
+            text-align:center;
+        }
+    </style>
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+     
+    <script>
+        window.onload = function()
+        {
+            $.getJSON ("./日向坂46.json", function (data)
+                    {
+                        $.each (data, function (i, item)
+                        {
+                            $ ("#he").append ("<div>" + "<a href = " + '"./webpage/' + item.link + '.html"'+ ">" + "<img src = " + item.picLink + " class =" + '"memberPic"' +"> </a>" + "</div>");
+                            $ ("#he").append ("<div>" + item.name + "<br>" + "生年月日: " + item.birthday +  "<br>" + "星座: " + item.starSign + "<br>" + "身長: " + item.height + "<br>"+
+                                "出身地:"+ item.born + "<br>" + "血液型: " + item.blood +"</div>");
+                        });
+                    });
+            $.getJSON ("./櫻坂46.json", function (data)
+                    {
+                        $.each (data, function (i, item)
+                        {
+                            $ ("#saku").append ("<div>" + "<a href = " + '"./webpage/' + item.link + '.html"'+ ">" + "<img src = " + item.picLink + " class =" + '"memberPic"' +"> </a>" + "</div>");
+                            $ ("#saku").append ("<div>" + item.name + "<br>" + "生年月日: " + item.birthday +  "<br>" + "星座: " + item.starSign + "<br>" + "身長: " + item.height + "<br>"+
+                                "出身地:"+ item.born + "<br>" + "血液型: " + item.blood +"</div>");
+                        });
+                    });
+        }
+    </script>
+</head>
+<body>
+
+  <h1 class = "htxtalign">櫻坂46 / 日向坂46メッセージ</h1>
+    <div class = "hinata">
+        <p class = "ptxtalign">日向坂46</p>
+    </div>
+    
+    <div id = "he" class = "container">
+    </div>
+
+    <div class = "sakurazaka">
+        <p class = "ptxtalign">櫻坂46</p>
+    </div>
+    
+    <div id = "saku" class = "container">
+    </div>
+</body>
+</html>

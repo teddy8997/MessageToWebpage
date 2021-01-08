@@ -1,0 +1,222 @@
+[
+    {
+        "name": "\u6f6e \u7d17\u7406\u83dc",
+        "birthday": "1997\u5e7412\u670826\u65e5",
+        "starSign": "\u3084\u304e\u5ea7",
+        "height": "157cm",
+        "born": "\u795e\u5948\u5ddd\u770c",
+        "blood": "O\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/791/b478784ab5c9e591395966ef52ba1/1000_1000_102400.jpg",
+        "link": "ushio.sarina"
+    },
+    {
+        "name": "\u5f71\u5c71 \u512a\u4f73",
+        "birthday": "2001\u5e745\u67088\u65e5",
+        "starSign": "\u304a\u3046\u3057\u5ea7",
+        "height": "155.5cm",
+        "born": "\u6771\u4eac\u90fd",
+        "blood": "O\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/b96/cd42cf36f09b2094cc1be7d1fb8a5/1000_1000_102400.jpg",
+        "link": "kageyama.yuuka"
+    },
+    {
+        "name": "\u52a0\u85e4 \u53f2\u5e06",
+        "birthday": "1998\u5e742\u67082\u65e5",
+        "starSign": "\u307f\u305a\u304c\u3081\u5ea7",
+        "height": "160cm",
+        "born": "\u6771\u4eac\u90fd",
+        "blood": "A\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/a4c/9a2f004352d749f91b01a0dd2f3b9/1000_1000_102400.jpg",
+        "link": "kato.shiho"
+    },
+    {
+        "name": "\u9f4a\u85e4 \u4eac\u5b50",
+        "birthday": "1997\u5e749\u67085\u65e5",
+        "starSign": "\u304a\u3068\u3081\u5ea7",
+        "height": "155cm",
+        "born": "\u6771\u4eac\u90fd",
+        "blood": "A\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/42d/b400773bdda4983024da774c366e6/1000_1000_102400.jpg",
+        "link": "saito.kyouko"
+    },
+    {
+        "name": "\u4f50\u3005\u6728 \u4e45\u7f8e",
+        "birthday": "1996\u5e741\u670822\u65e5",
+        "starSign": "\u307f\u305a\u304c\u3081\u5ea7",
+        "height": "167.5cm",
+        "born": "\u5343\u8449\u770c",
+        "blood": "O\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/6e6/95b857148e9e01adfe6b77b359f21/1000_1000_102400.jpg",
+        "link": "sasaki.kumi"
+    },
+    {
+        "name": "\u4f50\u3005\u6728 \u7f8e\u73b2",
+        "birthday": "1999\u5e7412\u670817\u65e5",
+        "starSign": "\u3044\u3066\u5ea7",
+        "height": "165cm",
+        "born": "\u5175\u5eab\u770c",
+        "blood": "O\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/c6e/0292d2fd37a1005402c08c0dc04d5/1000_1000_102400.jpg",
+        "link": "sasaki.mirei"
+    },
+    {
+        "name": "\u9ad8\u702c \u611b\u5948",
+        "birthday": "1998\u5e749\u670820\u65e5",
+        "starSign": "\u304a\u3068\u3081\u5ea7",
+        "height": "157cm",
+        "born": "\u5927\u962a\u5e9c",
+        "blood": "A\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/4d7/9ffa99d6b0baac77197a148e786f0/1000_1000_102400.jpg",
+        "link": "takese.mana"
+    },
+    {
+        "name": "\u9ad8\u672c \u5f69\u82b1",
+        "birthday": "1998\u5e7411\u67082\u65e5",
+        "starSign": "\u3055\u305d\u308a\u5ea7",
+        "height": "162.5cm",
+        "born": "\u795e\u5948\u5ddd\u770c",
+        "blood": "B\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/040/8fbe49c3c2f5ae1a2e827bfc687ec/1000_1000_102400.jpg",
+        "link": "takamoto.ayaka"
+    },
+    {
+        "name": "\u6771\u6751 \u82bd\u4f9d",
+        "birthday": "1998\u5e748\u670823\u65e5",
+        "starSign": "\u304a\u3068\u3081\u5ea7",
+        "height": "154cm",
+        "born": "\u5948\u826f\u770c",
+        "blood": "O\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/64e/b75c020521e09a2c33de45895919d/1000_1000_102400.jpg",
+        "link": "higashimura.mei"
+    },
+    {
+        "name": "\u91d1\u6751 \u7f8e\u7396",
+        "birthday": "2002\u5e749\u670810\u65e5",
+        "starSign": "\u304a\u3068\u3081\u5ea7",
+        "height": "163cm",
+        "born": "\u57fc\u7389\u770c",
+        "blood": "O\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/a0f/4b9e49b90c090869c7d5e24f8f1f4/1000_1000_102400.jpg",
+        "link": "kanemura.miku"
+    },
+    {
+        "name": "\u6cb3\u7530 \u967d\u83dc",
+        "birthday": "2001\u5e747\u670823\u65e5",
+        "starSign": "\u3057\u3057\u5ea7",
+        "height": "154cm",
+        "born": "\u5c71\u53e3\u770c",
+        "blood": "B\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/35d/b1ec540b4a8a202457ae8a2c09f40/1000_1000_102400.jpg",
+        "link": "kawada.hina"
+    },
+    {
+        "name": "\u5c0f\u5742 \u83dc\u7dd2",
+        "birthday": "2002\u5e749\u67087\u65e5",
+        "starSign": "\u304a\u3068\u3081\u5ea7",
+        "height": "161.5cm",
+        "born": "\u5927\u962a\u5e9c",
+        "blood": "O\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/7df/a55f423a2c7b4ced2f5cf1448ce61/1000_1000_102400.jpg",
+        "link": "kosaka.nao"
+    },
+    {
+        "name": "\u5bcc\u7530 \u9234\u82b1",
+        "birthday": "2001\u5e741\u670818\u65e5",
+        "starSign": "\u3084\u304e\u5ea7",
+        "height": "165cm",
+        "born": "\u795e\u5948\u5ddd\u770c",
+        "blood": "A\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/30b/46e6bc8dd6a570e815567ef6f239c/1000_1000_102400.jpg",
+        "link": "tomita.suzuka"
+    },
+    {
+        "name": "\u4e39\u751f \u660e\u91cc",
+        "birthday": "2001\u5e742\u670815\u65e5",
+        "starSign": "\u307f\u305a\u304c\u3081\u5ea7",
+        "height": "156.5cm",
+        "born": "\u57fc\u7389\u770c",
+        "blood": "AB\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/445/b7074f17506692520a38db5df6d7b/1000_1000_102400.jpg",
+        "link": "nibu.akari"
+    },
+    {
+        "name": "\u6ff1\u5cb8 \u3072\u3088\u308a",
+        "birthday": "2002\u5e749\u670828\u65e5",
+        "starSign": "\u3066\u3093\u3073\u3093\u5ea7",
+        "height": "167cm",
+        "born": "\u798f\u5ca1\u770c",
+        "blood": "A\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/1a4/22ea47c38c6fa14ca73eab9fd2dc8/1000_1000_102400.jpg",
+        "link": "hamagishi.hiyori"
+    },
+    {
+        "name": "\u677e\u7530 \u597d\u82b1",
+        "birthday": "1999\u5e744\u670827\u65e5",
+        "starSign": "\u304a\u3046\u3057\u5ea7",
+        "height": "157.2cm",
+        "born": "\u4eac\u90fd\u5e9c",
+        "blood": "A\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/b10/f51dd636e5cf8cbfe45c3da66e8f3/1000_1000_102400.jpg",
+        "link": "matusda.konoka"
+    },
+    {
+        "name": "\u5bae\u7530 \u611b\u840c",
+        "birthday": "1998\u5e744\u670828\u65e5",
+        "starSign": "\u304a\u3046\u3057\u5ea7",
+        "height": "157.5cm",
+        "born": "\u6771\u4eac\u90fd",
+        "blood": "A\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/059/f9c491a89d7b4c300e04029163ce3/1000_1000_102400.jpg",
+        "link": "miyata.manamo"
+    },
+    {
+        "name": "\u6e21\u9089 \u7f8e\u7a42",
+        "birthday": "2000\u5e742\u670824\u65e5",
+        "starSign": "\u3046\u304a\u5ea7",
+        "height": "158.6cm",
+        "born": "\u57fc\u7389\u770c",
+        "blood": "A\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/a16/d3179353868bb72228dff0da4e551/1000_1000_102400.jpg",
+        "link": "watanabe.miho"
+    },
+    {
+        "name": "\u4e0a\u6751 \u3072\u306a\u306e",
+        "birthday": "2004\u5e744\u670812\u65e5",
+        "starSign": "\u304a\u3072\u3064\u3058\u5ea7",
+        "height": "162cm",
+        "born": "\u6771\u4eac\u90fd",
+        "blood": "AB\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/e02/4a0e1dd5db0dd6caf5aa59918aa46/1000_1000_102400.jpg",
+        "link": "kamimura.hinano"
+    },
+    {
+        "name": "\u9ad9\u6a4b \u672a\u6765\u8679",
+        "birthday": "2003\u5e749\u670827\u65e5",
+        "starSign": "\u3066\u3093\u3073\u3093\u5ea7",
+        "height": "168.5cm",
+        "born": "\u6771\u4eac\u90fd",
+        "blood": "B\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/d28/dca4e1c1160fa3f37363243895262/1000_1000_102400.jpg",
+        "link": "takahashi.mikuni"
+    },
+    {
+        "name": "\u68ee\u672c \u8309\u8389",
+        "birthday": "2004\u5e742\u670823\u65e5",
+        "starSign": "\u3046\u304a\u5ea7",
+        "height": "159.6cm",
+        "born": "\u6771\u4eac\u90fd",
+        "blood": "A\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/9f0/552f8a4cf86b58957cd7d691d536b/1000_1000_102400.jpg",
+        "link": "morimoto.mari"
+    },
+    {
+        "name": "\u5c71\u53e3 \u967d\u4e16",
+        "birthday": "2004\u5e742\u670823\u65e5",
+        "starSign": "\u3046\u304a\u5ea7",
+        "height": "151cm",
+        "born": "\u9ce5\u53d6\u770c",
+        "blood": "O\u578b",
+        "picLink": "https://cdn.hinatazaka46.com/images/14/29e/74f3b4ec76ddff28d645769f23aad/1000_1000_102400.jpg",
+        "link": "yamaguchi.haruyo"
+    }
+]
