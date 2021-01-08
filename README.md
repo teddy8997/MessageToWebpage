@@ -15,7 +15,7 @@
     $ npm install http-server -g
     $ http-server
 
-## 使用技術及套件: 
+## 使用技術及套件
     python, HTML, CSS, JavaScript, jQuery, Json, excel2json
     
 ## 頁面展示圖片
