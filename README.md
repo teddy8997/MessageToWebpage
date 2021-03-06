@@ -3,7 +3,7 @@
     要處理的檔案有mp4, txt及jpg，由於訊息為付費資訊所以不提供檔案上來。
     利用python利用檔案操作指定去遍歷資料夾下每個檔案，將有訂閱的年及月分寫到一個名為sub的EXCEL工作表中，
     並且再建立一個名為data的工作表紀錄訊息發送的日期、檔案名稱、檔案類型、檔案內容、月、及發送時間(幾點幾分)，
-    最後將這個工作表使用excel2json套件轉成兩個Json格式的檔案，分別為sub.json及dada.json。
+    最後將這個工作表使用excel2json套件轉成兩個Json格式的檔案，分別為sub.json及daa.json。
     最後在HTML中使用JavaScript讀取sub.json的資料來建立<select>年月選項給使用者選擇。選擇之後將會依據選擇的年月讀取data.json中相符的資料並且依據檔案類型來分別作處理。
 
 
